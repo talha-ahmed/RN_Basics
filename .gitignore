@@ -55,9 +55,6 @@ Pods
 # vscode
 .vscode
 
-**/gradle-wrapper.jar
-**/gradle-wrapper.properties
-
 
 # avd_start
 emulator.txt
