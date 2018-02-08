@@ -55,8 +55,6 @@ Pods
 # vscode
 .vscode
 
-**/gradlew
-**/gradlew.bat
 **/gradle-wrapper.jar
 **/gradle-wrapper.properties
 
