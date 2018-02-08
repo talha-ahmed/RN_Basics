@@ -1,0 +1,66 @@
+# Xcode
+#
+**/ios/Output
+**/ios/build
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+xcodebuild.txt
+
+# Android/IJ
+#
+*.iml
+.idea
+.gradle
+local.properties
+**/android/**/build
+**/android/Output
+
+# node.js
+#
+node_modules/
+npm-debug.log
+
+# Jest
+#
+coverage
+
+# flow-coverage-report
+flow-coverage
+
+# CocoaPods
+#
+Pods
+*.xcworkspacedata
+
+# emacs
+#
+*~
+.#*
+\#*#
+*.xcscmblueprint
+
+# vscode
+.vscode
+
+**/gradlew
+**/gradlew.bat
+**/gradle-wrapper.jar
+**/gradle-wrapper.properties
+
+
+# avd_start
+emulator.txt
+emulator-stderr.txt
